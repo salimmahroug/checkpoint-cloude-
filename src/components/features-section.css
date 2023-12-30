@@ -1,0 +1,13 @@
+/* src/components/features-section.css */
+.features-section {
+    text-align: center;
+    padding: 3rem 0;
+  }
+  
+  .features-section h2 {
+    font-size: 2rem;
+    margin-bottom: 2rem;
+  }
+  
+  /* Add styles for individual features here */
+  

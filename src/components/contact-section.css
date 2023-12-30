@@ -1,0 +1,14 @@
+/* src/components/contact-section.css */
+.contact-section {
+    background-color: #fff;
+    text-align: center;
+    padding: 3rem 0;
+  }
+  
+  .contact-section h2 {
+    font-size: 2rem;
+    margin-bottom: 2rem;
+  }
+  
+  /* Add styles for contact form or contact information here */
+  
